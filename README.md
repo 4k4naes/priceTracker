@@ -43,16 +43,3 @@ datetime: 2025-10-07 12:30:15
 product: PS5 Slim
 store: Media Markt
 price: 2849.00
-
-## Struktura projektu
-
-price_tracker/
-├── main.py
-├── stores/
-│ ├── mediaExpert.py
-│ ├── mediaMarkt.py
-├── data/
-│ ├── prices.csv
-│ └── products.json
-├── requirements.txt
-└── README.md
